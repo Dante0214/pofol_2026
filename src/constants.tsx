@@ -29,7 +29,7 @@ export const PROJECTS: Project[] = [
     description: "식품의약안전처 API를 활용한 레시피 검색 서비스",
     tags: ["React"],
     imageUrl: project2,
-    link: "https://react-2nd-team5-cqrk.vercel.app/",
+    link: "https://react-2nd-team5.vercel.app/",
     category: "web",
   },
   {
